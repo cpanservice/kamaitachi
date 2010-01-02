@@ -16,4 +16,5 @@ requires 'Path::Class';
 
 use_test_base;
 auto_include;
+repository 'http://github.com/typester/kamaitachi';
 WriteAll;
